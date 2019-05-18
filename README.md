@@ -58,10 +58,10 @@ If you're interested, feel free to fork and submit PR.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Authors
-[Ojesh Manandhar](https://github.com/OjeshManandhar): Coded the file handling
+[Ojesh Manandhar](https://github.com/OjeshManandhar): Coded the file handling part
 
 [Sanil Manandhar](https://github.com/Sanilblank): Data Collection, Brainstorming guy
 
-[Samip Shrestha](https://github.com/samip584): Coded the battle simulation
+[Samip Shrestha](https://github.com/samip584): Coded the battle simulation part
 
 [Shrijan Bajracharya](https://github.com/ShriBuzz): Data Collection, Brainstorming guy
